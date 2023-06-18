@@ -5,11 +5,10 @@ For instance, if the user writes a sentence in Hebrew while the keyboard languag
 Compatible with macOS
 
 ## Installation
-
-Install in your terminal to run typo_converter.
+Install in your terminal from requirements to run typo_converter.
 
 ```bash
-pip install -r
+pip install -r requirements.txt
 ```
     
 ## How to use
