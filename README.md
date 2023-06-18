@@ -2,6 +2,7 @@
 
 The project is designed for individuals who use Hebrew and English in their daily lives. It corrects language errors instantly with a simple click of a button. 
 For instance, if the user writes a sentence in Hebrew while the keyboard language is set to English, or vice versa, when the user writes in English while the language is set to Hebrew, the project corrects the errors automatically.
+Compatible with macOS
 
 ## Installation
 
