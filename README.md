@@ -31,4 +31,8 @@ run command in your terminal :
 ```bash
 Python scriptOnBackground.py
 ```
+On your Mac, choose Apple menu  > System Settings > Privacy & security, then click Accessibility  in the sidebar. (You may need to scroll down.)
+
+Click Terminal on the right, then turn on Terminal.
+
 Turn on in Accessibility terminal to allow the applications below to control your computer.
