@@ -25,3 +25,10 @@ Shortcut keys:
 ## Demo
 
 ![](https://github.com/alon-ben-david/typo_converter/blob/main/Demo%20gif.gif)
+
+## How to run
+run command in your terminal :
+```bash
+Python scriptOnBackground.py
+```
+Turn on in Accessibility terminal to allow the applications below to control your computer.
